@@ -1,6 +1,16 @@
-Hello. Here is my first attempt using Phaser.
+# Phaser Game
+## Apple Game
+
+### Description
+Here is my first attempt using Phaser.
 I followed this fantastic YouTube video I found... https://www.youtube.com/watch?v=0qtg-9M3peI
 
+The tech that I used for this game was:
+- Phaser
+- Node.js
+
+
+### How to play?
 To play it please follow these instruction:
 
 1) Fork this repo.
